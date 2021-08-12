@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+encoding//src/campWork/ComporateManager.java=UTF-8
 encoding//src/campWork/CourseManager.java=UTF-8
 encoding//src/campWork/DatabaseLogger.java=UTF-8
 encoding//src/campWork/Main.java=UTF-8
+encoding//src/campWork/StudentManager.java=UTF-8
+encoding//src/campWork/TeacherManager.java=UTF-8
+encoding//src/campWork/UserManager.java=UTF-8
